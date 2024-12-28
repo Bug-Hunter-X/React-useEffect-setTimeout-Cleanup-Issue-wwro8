@@ -1,0 +1,2 @@
+# React useEffect setTimeout Cleanup
+This repository demonstrates a common error in React's `useEffect` hook when using `setTimeout`.  The initial code incorrectly handles the `setTimeout` cleanup, leading to unintended consequences. The solution shows how to properly manage the cleanup to avoid memory leaks and unexpected behavior.
